@@ -31,7 +31,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/pretty-snake.gif?color_snake=#ac87d5&color_dots=#83b1dc,#5f98cf,#4d80d0,#3365b4,#284096
+            dist/pretty-snake.gif?color_snake=#ac87d5&color_dots=#b4cfe5,#83b1dc,#5f98cf,#4d80d0,#3365b4,
 
 
      # show the status of the build. Makes it easier for debugging (if there's any issues).
